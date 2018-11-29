@@ -14,7 +14,7 @@ namespace WcfService2
     {
         public string HelloWorld()
         {
-            return "Hello world!";
+            return "Hello new world !";
         }
         public string GetData(int value)
         {
